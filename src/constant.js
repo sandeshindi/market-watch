@@ -18,10 +18,10 @@ export const indexes = [{
     isGlobal: "true"
 }];
 
-export const NEWSAPIKEY ="1a3652905e6e4d9bbe2c111dfccdc60f";
+export const NEWSAPIKEY ="NEWsAPIKEY"; //https://newsapi.org/ for key register
 export const NEWSAPI_BASEURL="https://newsapi.org/v2/top-headlines";
 export const ALPHAAPI_BASEURL="https://www.alphavantage.co/query";
-export const ALPHAAPIKEY ="9451JUKJJK9IXVTO";
+export const ALPHAAPIKEY ="ALPHAVANTAGEKEY"; //https://www.alphavantage.co for key
 
 export const formatDate = (string) => {
     var options = { year: 'numeric', month: 'long', day: 'numeric' };

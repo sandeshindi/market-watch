@@ -1,4 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+###Before you run the project###
+##Get API keys for NewsAPI, ALPHAVANTAGE
+Copy these api keys in constant.js
+1. Register and get NEWsAPIKEY from https://newsapi.org/ and update the value for NEWSAPIKEY
+2. Register and get ALPHAVANTAGEKEY from https://www.alphavantage.co  and update value for ALPHAVANTAGEKEY
+
+###Create firebase project in https://console.firebase.google.com and create firestore as database
+1. ADD the firebase config in firebase.js in key firebaseConfig
+
+
 
 ## Available Scripts
 
