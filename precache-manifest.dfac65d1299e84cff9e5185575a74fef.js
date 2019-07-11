@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d1e69ed0896407ee2f05692852a54d7",
+    "revision": "f90366e213fc05defa4f9a9dd51706d2",
     "url": "/market-watch/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/market-watch/static/css/2.5dbdccff.chunk.css"
   },
   {
-    "revision": "0a3bc0ca60f428f996c1",
+    "revision": "678723530132a3405256",
     "url": "/market-watch/static/css/main.8d83626d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/market-watch/static/js/2.2f3aba3f.chunk.js"
   },
   {
-    "revision": "0a3bc0ca60f428f996c1",
-    "url": "/market-watch/static/js/main.787231c6.chunk.js"
+    "revision": "678723530132a3405256",
+    "url": "/market-watch/static/js/main.09556866.chunk.js"
   },
   {
     "revision": "90d2e0a70797d9b69491",
