@@ -43,7 +43,7 @@ class SignUp extends React.Component {
 
   render() {
     const { auth, authError } = this.props;
-    if (auth.uid) return <Redirect to="/home" />;
+    if (auth.uid) return <Redirect to="/" />;
    
     return (
       <Container className= "auth-container">
