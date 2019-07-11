@@ -14,8 +14,6 @@ class StockChartWidget extends React.Component {
   }
 
   componentDidMount() {
-    console.log("component did mount");
-    console.log(this.props);
     let symbolString = this.props.currentSymbol;
     symbolString = this.props.symbol ? this.props.symbol : symbolString;
     symbolString = symbolString ? symbolString : "MSFT : Microsoft Corporation";
@@ -32,8 +30,6 @@ class StockChartWidget extends React.Component {
   }
 
   componentDidUpdate() {
-    console.log("componentDidUpdate:");
-    console.log(this.props);
     let symbolString = this.props.currentSymbol;
     symbolString = this.props.symbol ? this.props.symbol : symbolString;
     symbolString = symbolString ? symbolString : "MSFT : Microsoft Corporation";
@@ -60,7 +56,7 @@ class StockChartWidget extends React.Component {
     const { currentSymbol, currentStockName } = this.state;
     const { auth } = this.props;
     return (
-      <div className="charts-widget">
+      <div className="charts-widget" style={this.props.symbol ? {paddingTop : '0em'} : {paddingTop : '3em'}}>
         <Card bg="light" className="charts-widget-card">
           <Card.Header className="chart-widget-header" as="h5">
             {currentStockName}

@@ -38,9 +38,9 @@ class IndexCards extends React.Component {
               <Col>{pricecurrent}</Col>
               <Col>
                 {CHANGE < 0 ? (
-                  <img src="/images/down.png" alt="" />
+                  <img src="market-watch/images/down.png" alt="" />
                 ) : (
-                  <img src="/images/up.png" alt="" />
+                  <img src="market-watch/images/up.png" alt="" />
                 )}
               </Col>
               <Col>
