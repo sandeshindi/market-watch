@@ -12,7 +12,7 @@ const FlexListGroupItem = ({
   const date = formatDate(publishedAt);
 
   return (
-    <ListGroup.Item className="list-group-item list-group-item-action align-items-start news-item">
+    <ListGroup.Item className="list-group-item list-group-item-action align-items-start">
       <Row className="news-row">
         <Col md={4} className="news-image-col">
           <Image src={urlToImage} style={{ height: "100%", width: "100%" }} />
