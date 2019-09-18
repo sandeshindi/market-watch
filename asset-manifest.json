@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/market-watch/static/css/main.c8984016.chunk.css",
-    "main.js": "/market-watch/static/js/main.2013f664.chunk.js",
-    "main.js.map": "/market-watch/static/js/main.2013f664.chunk.js.map",
+    "main.js": "/market-watch/static/js/main.27575cb5.chunk.js",
+    "main.js.map": "/market-watch/static/js/main.27575cb5.chunk.js.map",
     "runtime~main.js": "/market-watch/static/js/runtime~main.dac81ec8.js",
     "runtime~main.js.map": "/market-watch/static/js/runtime~main.dac81ec8.js.map",
     "static/css/2.5dbdccff.chunk.css": "/market-watch/static/css/2.5dbdccff.chunk.css",
     "static/js/2.2f3aba3f.chunk.js": "/market-watch/static/js/2.2f3aba3f.chunk.js",
     "static/js/2.2f3aba3f.chunk.js.map": "/market-watch/static/js/2.2f3aba3f.chunk.js.map",
     "index.html": "/market-watch/index.html",
-    "precache-manifest.c9046d6038788d61b35c391d5b8cc605.js": "/market-watch/precache-manifest.c9046d6038788d61b35c391d5b8cc605.js",
+    "precache-manifest.706cd16f5afaa8d34440186240d8273c.js": "/market-watch/precache-manifest.706cd16f5afaa8d34440186240d8273c.js",
     "service-worker.js": "/market-watch/service-worker.js",
     "static/css/2.5dbdccff.chunk.css.map": "/market-watch/static/css/2.5dbdccff.chunk.css.map",
     "static/css/main.c8984016.chunk.css.map": "/market-watch/static/css/main.c8984016.chunk.css.map"
