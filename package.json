@@ -4,7 +4,7 @@
   "private": true,
   "homepage":"https://sandeshindi.github.io/market-watch",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "d3-dsv": "^1.1.1",
     "firebase": "^6.2.4",
